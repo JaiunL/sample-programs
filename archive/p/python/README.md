@@ -23,6 +23,7 @@ Welcome to Sample Programs in Python!
 - [Longest Palindromic Subsequence][42]
 - [Merge Sort in Python][35]
 - [Minimum Spanning Tree][43]
+- [Pigpen Cypher Encoder in Python][45]
 - [Prime Number in Python][36]
 - [Quick Sort in Python][37]
 - [Quine in Python][3]
@@ -151,3 +152,4 @@ Welcome to Sample Programs in Python!
 [41]: https://www.python.org/dev/peps/pep-0020/
 [43]: https://github.com/TheRenegadeCoder/sample-programs/issues/1536
 [44]: https://github.com/TheRenegadeCoder/sample-programs/issues/1535
+[45]: https://github.com/JaiunL/sample-programs/blob/master/archive/p/python/pigpen_cypher_encoder
